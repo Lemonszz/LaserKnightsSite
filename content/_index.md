@@ -1,27 +1,31 @@
 ---
-title: 🪴 Quartz 3.3
+title: ⚔️ LASER KNIGHTS
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+# Links
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+## Content
+- [YouTube](https://www.youtube.com/laserknights)
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+## Social
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+- [Discord](https://discord.gg/dYWSQBt6JA)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+### Sam
+- [Twitter - @lemonscrap](https://twitter.com/lemonscrap) 
+- [Mastodon - @lemonscrap@mas.to](https://mas.to/@lemonscrap)
+- [Cohost - @lemons](https://cohost.org/lemons)
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+### Max
+[Walmart](https://www.walmart.com/ip/Crocs-Unisex-Crocband-Clog/732834638)
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+## Projects
+
+### Biome Makeover
+Biome Makeover is a Minecraft mod that overhauls certain Minecraft Biomes
+
+- [Biome Makeover Documentation](https://biomemakeover.laserknights.com)
+- Curseforge - [Forge](https://www.curseforge.com/minecraft/mc-mods/biome-makeover-forge), [Fabric](https://www.curseforge.com/minecraft/mc-mods/biome-makeover)
+- [Modrinth](https://modrinth.com/mod/biome-makeover)
 
