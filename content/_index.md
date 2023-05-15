@@ -3,22 +3,24 @@ title: ⚔️ LASER KNIGHTS
 enableToc: false
 ---
 
-# Links
+> [!Info] Work in Progress
+> This website is under construction
+> ![[under-construction.gif]]
 
-## Content
+
+## Content  
 - [YouTube](https://www.youtube.com/laserknights)
 
-## Social
-
+## Social  
 - [Discord](https://discord.gg/dYWSQBt6JA)
 
-### Sam
+### Sam  
 - [Twitter - @lemonscrap](https://twitter.com/lemonscrap) 
 - [Mastodon - @lemonscrap@mas.to](https://mas.to/@lemonscrap)
 - [Cohost - @lemons](https://cohost.org/lemons)
 
 ### Max
-[Walmart](https://www.walmart.com/ip/Crocs-Unisex-Crocband-Clog/732834638)
+- [Walmart](https://www.walmart.com/ip/Crocs-Unisex-Crocband-Clog/732834638)
 
 ## Projects
 
